@@ -24,8 +24,8 @@ Ensure you have the following installed before starting:
 Follow these steps to set up the project:
 
 1. **Clone the Repository**:
-    - Using SSH: `git clone git@github.com:your-username/video-processing-api.git`
-    - Using HTTPS: `git clone https://github.com/your-username/video-processing-api.git`
+    - Using SSH: `git@github.com:ruthwikchikoti/vidcraft-api.git`
+    - Using HTTPS: `git clone https://github.com/ruthwikchikoti/vidcraft-api.git`
     - Alternatively, download the repository as a ZIP file and extract it.
 
 2. **Navigate to the Project Directory**:
